@@ -17,7 +17,7 @@ while True:
 
     # Asking the bot name
     elif "your name" in user_input:
-        print("Sam: My name is chatbot")
+        print("Sam: My name is Sam")
 
      # Asking what the bot can do
     elif "help" in user_input:
